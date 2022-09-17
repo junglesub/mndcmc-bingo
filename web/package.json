@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://junglesub.github.io/mndcmc-bingo/",
   "scripts": {
     "dev": "vite --host --port 3000",
     "build": "vite build",
