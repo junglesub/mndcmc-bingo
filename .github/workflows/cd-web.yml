@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - web/**
+      - .github/workflows/cd-web.yml
 
 jobs:
   cd-web:
@@ -22,4 +23,4 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./dist
+          publish_dir: web/dist
