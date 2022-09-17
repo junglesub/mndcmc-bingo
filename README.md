@@ -1,6 +1,6 @@
-<h1 style="align:center">국군중앙교회빙고 (진행중)</h1>
+<h1 align="center">국군중앙교회빙고 (진행중)</h1>
 
-<p style="align:center">
+<p align="center">
 국군중앙교회에서 진행되는 빙고를 편하게 참여하기 위한 서비스입니다.
 </p>
 
