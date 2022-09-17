@@ -1,6 +1,6 @@
-<h1 style="text-align:center">국군중앙교회빙고 (진행중)</h1>
+<h1 style="align:center">국군중앙교회빙고 (진행중)</h1>
 
-<p style="text-align:center">
+<p style="align:center">
 국군중앙교회에서 진행되는 빙고를 편하게 참여하기 위한 서비스입니다.
 </p>
 
@@ -13,8 +13,9 @@
 5. **[CV]** (최종목표) 유튜브에 방송되는 것을 CV 를 활용하여 자동으로 단어 기입되게 설정.
 
 ### 🛠 필요한 기술스택 (TBD)
-| 기능 | 기술스택 |
-| --- | --- |
-| 프론트 | NodeJS & ReactJS |
-| 백엔드 | NodeJS & Express + Socket.io<br />MySQL |
-| 데이터분석 & CV | 파이썬 |
+
+| 기능            | 기술스택                                |
+| --------------- | --------------------------------------- |
+| 프론트          | NodeJS & ReactJS                        |
+| 백엔드          | NodeJS & Express + Socket.io<br />MySQL |
+| 데이터분석 & CV | 파이썬                                  |
