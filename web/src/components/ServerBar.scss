@@ -1,0 +1,27 @@
+.ServerBar {
+  font-size: 1.25em;
+  line-height: 1;
+
+  width: 100%;
+  background-color: #dedede;
+  color: white;
+
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  padding: 0.5em 15px;
+
+  .lastTime {
+    color: #555;
+  }
+
+  .red {
+    color: #d0342c;
+  }
+
+  .green {
+    color: #76ae5e;
+  }
+}

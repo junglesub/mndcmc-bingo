@@ -1,15 +1,14 @@
 .HeaderBar {
-  & {
-    width: 100%;
-    background-color: black;
-    color: white;
+  font-size: 1.25em;
+  width: 100%;
+  background-color: black;
+  color: white;
 
-    box-sizing: border-box;
+  box-sizing: border-box;
 
-    display: flex;
-    justify-content: space-between;
-    padding: 5px 15px;
-  }
+  display: flex;
+  justify-content: space-between;
+  padding: 0.75em 15px;
 
   .user {
     color: #aaa;
