@@ -3,6 +3,7 @@
 
 .MainTable .mainTable {
   border-collapse: collapse;
+  margin: auto;
 }
 
 .MainTable .mainTable td {

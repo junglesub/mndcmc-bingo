@@ -1,0 +1,22 @@
+.BottomWords {
+  margin-top: 16px;
+
+  h1.title {
+    text-align: center;
+  }
+  .lastword {
+    text-align: center;
+    max-width: 100%;
+    .pto {
+      max-width: 120px;
+      border: 1px solid black;
+      margin: 0.5em 20px;
+      img {
+        width: 100%;
+      }
+    }
+    .word {
+      margin-top: 0.5em;
+    }
+  }
+}
