@@ -10,48 +10,6 @@
   justify-content: start;
 }
 
-.btn {
-  /* If you want to implement it in very old browser-versions */
-  -webkit-user-select: none; /* Chrome/Safari */
-  -moz-user-select: none; /* Firefox */
-  -ms-user-select: none; /* IE10+ */
-
-  /* The rule below is not implemented in browsers yet */
-  -o-user-select: none;
-
-  /* The rule below is implemented in most browsers by now */
-  user-select: none;
-}
-
 .title {
   letter-spacing: 4px;
-}
-
-.mainTable {
-  border-collapse: collapse;
-}
-
-.mainTable td {
-  border: 1px solid black;
-  width: 60px;
-  height: 60px;
-  text-align: center;
-
-  font-size: 36px;
-}
-
-.fill {
-  background-color: #ffdde2;
-}
-
-.shuffle-btn {
-  background-color: #ddf3ff;
-  padding: 10px 20px;
-  border-radius: 5px;
-  margin-top: 12px;
-  cursor: pointer;
-}
-
-.shuffle-btn:hover {
-  background-color: #aae1ff;
 }
