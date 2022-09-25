@@ -2,6 +2,7 @@ import React from "react";
 
 import "./BottomWords.scss";
 import sampleImg from "../sample.jpg";
+import WordTable from "./WordTable";
 
 function BottomWords() {
   return (
@@ -15,6 +16,7 @@ function BottomWords() {
       </div>
 
       <h1 className="title">단어</h1>
+      <WordTable />
     </div>
   );
 }

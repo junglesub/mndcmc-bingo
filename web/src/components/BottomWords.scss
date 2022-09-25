@@ -3,6 +3,7 @@
 
   h1.title {
     text-align: center;
+    margin-bottom: 0;
   }
   .lastword {
     text-align: center;
@@ -10,7 +11,7 @@
     .pto {
       max-width: 120px;
       border: 1px solid black;
-      margin: 0.5em 20px;
+      margin: 0.5em auto;
       img {
         width: 100%;
       }
