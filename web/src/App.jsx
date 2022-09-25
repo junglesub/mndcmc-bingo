@@ -1,5 +1,5 @@
 import "./App.css";
-import MainTable from "./pages/MainTable.jsx";
+import MainTable from "./components/MainTable.jsx";
 
 function App() {
   return (
