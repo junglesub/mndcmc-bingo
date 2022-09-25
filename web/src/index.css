@@ -1,9 +1,10 @@
-html, body{
+html,
+body {
   margin: 0;
 }
 
 :root {
-  font-family: 'Do Hyeon', sans-serif;
+  font-family: "Do Hyeon", sans-serif;
   background-color: #e3e3e3;
 
   /* font-family: Inter, Avenir, Helvetica, Arial, sans-serif; */

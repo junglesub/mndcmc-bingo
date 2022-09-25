@@ -1,0 +1,17 @@
+.HeaderBar {
+  & {
+    width: 100%;
+    background-color: black;
+    color: white;
+
+    box-sizing: border-box;
+
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 15px;
+  }
+
+  .user {
+    color: #aaa;
+  }
+}

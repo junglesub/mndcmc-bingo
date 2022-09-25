@@ -31,7 +31,7 @@ function MainTable() {
         </tr>
       </table>
       <div className="buttons">
-        <div className="shuffle-btn btn" onClick={() => shuffleNumbers()}>
+        <div className="shuffle-btn btn nosel" onClick={() => shuffleNumbers()}>
           섞기
         </div>
       </div>
